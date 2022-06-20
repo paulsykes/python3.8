@@ -1,0 +1,4 @@
+# DP: updates from the 3.8 branch (until 2019-11-23).
+
+# git diff --no-renames fa919fdf2583bdfead1df00e842f24f30b2a34bf b9e5547f5814962964c4a5bd5cd36a2af8fbf974 | filterdiff -x ?/.hgignore -x ?/.hgeol -x ?/.hgtags -x ?/.hgtouch -x ?/.gitignore -x ?/.gitattributes -x '?/.github/*' -x '?/.git*' -x ?/.codecov.yml -x ?/.travis.yml -x ?/configure --remove-timestamps
+
